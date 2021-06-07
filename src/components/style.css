@@ -1,0 +1,22 @@
+.bg-image {
+  background-image: url(../media/fitness.jpg);
+  background-repeat: no-repeat;
+  background-position: right;
+  background-size: cover;
+}
+.header {
+  height: 600px;
+  display: flex;
+  align-items: center;
+}
+.navA {
+  color: #fff !important;
+  font-size: 20px;
+  font-family: Montserrat;
+}
+.icon a {
+  font-size: 35px;
+  color: #fff;
+  margin-right: 20px;
+  margin-top: 18px;
+}
